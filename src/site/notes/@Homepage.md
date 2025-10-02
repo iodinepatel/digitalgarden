@@ -26,3 +26,35 @@ views:
 ```
 
 
+| File                            |
+| ------------------------------- |
+| [[@Atomic\|@Atomic]]         |
+| [[@Dictionary\|@Dictionary]] |
+| [[@Project\|@Project]]       |
+| [[@Foundation\|@Foundation]] |
+| [[@Level1\|@Level1]]         |
+| [[@Finance\|@Finance]]       |
+| [[@Language\|@Language]]     |
+| [[@Philosophy\|@Philosophy]] |
+| [[@Anecdote\|@Anecdote]]     |
+| [[@Article\|@Article]]       |
+| [[@Audio\|@Audio]]           |
+| [[@Book\|@Book]]             |
+| [[@Course\|@Course]]         |
+| [[@Humour\|@Humour]]         |
+| [[@Lines\|@Lines]]           |
+| [[@Paper\|@Paper]]           |
+| [[@People\|@People]]         |
+| [[@Podcast\|@Podcast]]       |
+| [[@Poetry\|@Poetry]]         |
+| [[@Post\|@Post]]             |
+| [[@Quote\|@Quote]]           |
+| [[@Visual\|@Visual]]         |
+| [[@Website\|@Website]]       |
+| [[@Config\|@Config]]         |
+| [[@Draft\|@Draft]]           |
+| [[@Flora\|@Flora]]           |
+| [[@Journal\|@Journal]]       |
+| [[@Recipe\|@Recipe]]         |
+
+{ .block-language-dataview}
